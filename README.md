@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ManagerCookies
+- 👀 I’m interested in JS and virus researching
+- 🌱 I’m currently learning JS, C+ and LUA
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me Notinh else
+- 😄 Pronouns: no
+- ⚡ Fun fact: I am reseraching and creating some virus as some tests to see they plans and buliding future of viruses.
